@@ -1,0 +1,4 @@
+[ZoneTransfer]
+ZoneId=3
+ReferrerUrl=https://github.com/kev065/python-p3-manual-migrations-and-downgrades/blob/76595da371540c4898de73efcbe2c3a34a551ac5/lib/migrations_test.db
+HostUrl=https://raw.githubusercontent.com/kev065/python-p3-manual-migrations-and-downgrades/76595da371540c4898de73efcbe2c3a34a551ac5/lib/migrations_test.db
